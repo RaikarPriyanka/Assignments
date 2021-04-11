@@ -1,1 +1,1 @@
-This contains the html files for html asssignments.
+This contains the html files.
