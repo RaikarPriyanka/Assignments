@@ -1,2 +1,2 @@
-This contains the html files.
-Now this contains css files.
+
+This folder now contains all the html,css files of the assignment.
